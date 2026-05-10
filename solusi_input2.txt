@@ -1,0 +1,88 @@
+algoritma: A*
+heuristic: H1
+solusi yang ditemukan: RULUDRUR
+cost solusi: 87
+waktu eksekusi: 7 ms
+iterasi: 13
+
+initial
+XXXXXXX
+X0****X
+X**X**X
+X****OX
+X1***LX
+Xz**X*X
+XXXXXXX
+
+step 1: R
+XXXXXXX
+X0****X
+X**X**X
+X****OX
+X1***LX
+X**zX*X
+XXXXXXX
+
+step 2: U
+XXXXXXX
+X0****X
+X**X**X
+X**z*OX
+X1***LX
+X***X*X
+XXXXXXX
+
+step 3: L
+XXXXXXX
+X0****X
+X**X**X
+Xz***OX
+X1***LX
+X***X*X
+XXXXXXX
+
+step 4: U
+XXXXXXX
+Xz****X
+X**X**X
+X****OX
+X1***LX
+X***X*X
+XXXXXXX
+
+step 5: D
+XXXXXXX
+X0****X
+X**X**X
+X****OX
+X1***LX
+Xz**X*X
+XXXXXXX
+
+step 6: R
+XXXXXXX
+X0****X
+X**X**X
+X****OX
+X1***LX
+X**zX*X
+XXXXXXX
+
+step 7: U
+XXXXXXX
+X0****X
+X**X**X
+X**z*OX
+X1***LX
+X***X*X
+XXXXXXX
+
+step 8: R
+XXXXXXX
+X0****X
+X**X**X
+X****zX
+X1***LX
+X***X*X
+XXXXXXX
+

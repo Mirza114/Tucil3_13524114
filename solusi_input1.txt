@@ -1,0 +1,35 @@
+algoritma: A*
+heuristic: H1
+solusi yang ditemukan: DRU
+cost solusi: 37
+waktu eksekusi: 7 ms
+iterasi: 7
+
+initial
+XXXXX
+Xz*OX
+X***X
+X0*1X
+XXXXX
+
+step 1: D
+XXXXX
+X**OX
+X***X
+Xz*1X
+XXXXX
+
+step 2: R
+XXXXX
+X**OX
+X***X
+X0*zX
+XXXXX
+
+step 3: U
+XXXXX
+X**zX
+X***X
+X0*1X
+XXXXX
+
