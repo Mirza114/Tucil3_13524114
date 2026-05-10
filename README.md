@@ -10,9 +10,6 @@ Program mendukung algoritma:
 - A*
 - BFS sebagai tambahan
 
-## Requirement
-
-- Java JDK 17 atau versi lebih baru
 
 ## Struktur Folder
 
@@ -54,18 +51,13 @@ test/input1.txt
 Lalu pilih algoritma:
 
 ```txt
-UCS
-GBFS
-A*
-BFS
+UCS, GBFS, A*, BFS
 ```
 
 Jika memilih `GBFS` atau `A*`, program akan meminta pilihan heuristic:
 
 ```txt
-H1
-H2
-H3
+H1, H2, H3
 ```
 
 ## Format Input
